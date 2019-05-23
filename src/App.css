@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: #0f5af0;
+}
+.Fields{
+  color: white;
+  margin-left:20px;
+}
+.App-header {
+  background-color: #282c34;
+  color:white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: 15px;
+}
+
+.button {
+  background-color: rgba(0, 0, 0, 0.452);
+  color: white;
+  user-select: none;
+  border: 1px;
+  padding: 3px;
+}
+
+.Error {
+  color: red;
+}
+
+
